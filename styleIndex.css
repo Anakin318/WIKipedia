@@ -25,11 +25,13 @@ h1, h2 {
 
 h1 {
     font-size: 12vw;
+    min-font-size: 6rem;
     animation: fadeInOut 3s infinite; /* Animación suave */
 }
 
 h2 {
     font-size: 8vw;
+    min-font-size: 4rem;
     margin-top: 20px;
     animation: pulse 2s infinite; /* Pequeño efecto de pulsación */
 }
