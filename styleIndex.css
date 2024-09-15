@@ -24,13 +24,13 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 32vw;
+    font-size: 24vw;
     animation: fadeInOut 3s infinite; /* Animación suave */
 }
 
 h2 {
-    font-size: 16vw;
-    margin-top: 20px;
+    font-size: 9.5vw;
+    margin-top: 3px;
     animation: pulse 2s infinite; /* Pequeño efecto de pulsación */
 }
 
@@ -42,7 +42,7 @@ h2 {
 
 button {
     height: 100px;
-    font-size: 6vw;
+    font-size: 12vw;
     padding: 15px 30px;
     border: none;
     background: url('img/sand5.png');
