@@ -24,14 +24,12 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 1233vw;
-    min-font-size: 1233rem;
+    font-size: 32vw;
     animation: fadeInOut 3s infinite; /* Animación suave */
 }
 
 h2 {
-    font-size: 8vw;
-    min-font-size: 4rem;
+    font-size: 16vw;
     margin-top: 20px;
     animation: pulse 2s infinite; /* Pequeño efecto de pulsación */
 }
